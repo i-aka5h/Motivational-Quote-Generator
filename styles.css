@@ -1,6 +1,7 @@
 *{
     padding: 0px;
     margin: 0px;
+    font-size : 16px;
 }
 
 body{
@@ -59,11 +60,11 @@ body{
     background-color: black;
     color: white;
     height: 3rem;
-    font-size: 1.2rem;
-    border-radius: 1rem;
-    padding: 5px;
+    border-radius: 2rem;
+    padding: .1rem;
 }
 
 .btn p{
-    margin: 5px 2rem;
+    font-size : 1.3rem;
+    margin: .4rem 2rem;
 }
