@@ -1,5 +1,5 @@
 # Motivational-Quote-Generator
-A basic JavaScript based website that randomly generates motivational quotes on click.  
+A JavaScript based website that randomly generates motivational quotes on click.  
 <br>
 Uses typefit API call - https://type.fit/api/quotes
 <br>
